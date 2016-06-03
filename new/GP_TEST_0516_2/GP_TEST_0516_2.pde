@@ -60,7 +60,7 @@ void setup()
 
 	LoRa_Setup(); //first configure
 }
-
+// test
 void loop()
 {
 	USB.ON();
