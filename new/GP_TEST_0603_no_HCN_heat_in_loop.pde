@@ -76,7 +76,7 @@ void loop()
 	LoRa_Setup();   //configuring in Loop
 
 
-/*
+
 	// receive packet
 	 e = sx1272.receivePacketTimeout(8000);
 	
@@ -94,7 +94,7 @@ void loop()
 	   USB.println(e, DEC);  
 	 }
 
- */
+ 
 	
 	 ///////////////////////////////
 	 // 1. Get SNR
